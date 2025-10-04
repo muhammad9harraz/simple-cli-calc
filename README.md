@@ -20,6 +20,7 @@ Enter a choice: 1
 Enter first number: 13
 Enter second number: 7
 Result:  20.0
+
 -----Calculator-----
 1. Add
 2. Subtract
@@ -30,6 +31,7 @@ Enter a choice: 4
 Enter first number: 20
 Enter second number: 0
 Result:  Error: Division by zero!
+
 -----Calculator-----
 1. Add
 2. Subtract
@@ -40,6 +42,7 @@ Enter a choice: 4
 Enter first number: 20
 Enter second number: 4
 Result:  5.0
+
 -----Calculator-----
 1. Add
 2. Subtract
@@ -48,6 +51,7 @@ Result:  5.0
 5. Exit
 Enter a choice: 8
 Invalid input!
+
 -----Calculator-----
 1. Add
 2. Subtract
